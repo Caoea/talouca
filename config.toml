@@ -1,0 +1,221 @@
+base_url = "https://talouca.fr"
+theme = "linkita"
+
+# Default language is French
+default_language = "fr"
+author = "Talouca"
+minify_html = false
+
+
+title = "Talouca!"
+description = "Un collectif d'auteurs de jeux de société"
+build_search_index = true
+generate_feeds = true
+feed_filenames = ["atom.xml"]
+taxonomies = [
+  { name = "tags", feed = true, paginate_by = 5 },
+  { name = "authors", feed = true, paginate_by = 5 },
+]
+
+# ignore tous les fichiers rangés dans le répertoire
+ignored_content = ["old/*"]
+
+[markdown]
+highlight_code = true
+extra_syntaxes_and_themes = []
+highlight_theme = "material-dark"
+
+[extra]
+math = false
+mermaid = false
+comment = false
+title_separator = " | "
+header_menu_name = "sample_header_menu_name"
+post_navigation = "enabled"
+use_cdn = false
+disable_javascript = false
+
+[extra.style]
+# bg_color = ""
+# bg_dark_color = ""
+# header_blur = true
+# header_color = ""
+# header_dark_color = ""
+
+[extra.menus]
+sample_header_menu_name = [
+  { url = "$BASE_URL/projects/", name = "Projects", names_i18n = "common_projects" },
+  { url = "$BASE_URL/archive/", name = "Archive", names_i18n = "common_archive" },
+  { url = "$BASE_URL/tags/", name = "Tags", names_i18n = "common_tags" },
+  { url = "$BASE_URL/about/", name = "About", names_i18n = "common_about" },
+]
+
+[extra.profiles]
+
+# Linkita's profile
+[extra.profiles.sample_username]
+avatar_url = "icons/github.svg"
+avatar_invert = true
+# avatar_alt = "Default alt text"
+# name = "Default name"
+# bio = "Default bio"
+social = [
+  # { name = "codeberg", url = "https://codeberg.org/salif/linkita" },
+  # { name = "github", url = "https://github.com/salif/linkita" },
+  # { name = "rss", url = "$BASE_URL/atom.xml" },
+  { name = "facebook", url = "example.com"},
+  { name = "linktree", url = "example.com"},
+  { name = "email", url = "mailto:talouca.games@gmail.com"}
+]
+
+[extra.profiles.sample_username.languages]
+[extra.profiles.sample_username.languages.bg]
+name = "Линкита - Тема за Зола"
+bio = "Линкита е многоезична, оптимизирана за търсачки, изчистена и елегантна блог тема за Зола."
+avatar_alt = "Демонстративен аватар за профила."
+[extra.profiles.sample_username.languages.en]
+name = "Linkita - Zola Theme"
+bio = "A clean and elegant blog theme for Zola. Linkita is based on Kita and Hugo-Paper and is multilingual and SEO friendly."
+avatar_alt = "Demo profile avatar."
+[extra.profiles.sample_username.languages.ar]
+name = "لينكيتا - قوالب مدونة زولا"
+bio = "لينكيتا هو قالب مدونة زولا."
+avatar_alt = "الصورة الرمزية للملف الشخصي التجريبي"
+[extra.profiles.sample_username.languages.eo]
+name = "Linkita - Temo por Zola"
+bio = "Pura kaj eleganta bloga temo por Zola. Linkita baziĝas sur Kita kaj Hugo-Paper kaj estas plurlingva kaj SEO-amika."
+avatar_alt = "Demoprofila avataro."
+[extra.profiles.sample_username.languages.tr]
+name = "Linkita - Zola için Tema"
+bio = "Zola için temiz ve şık bir blog teması. Linkita, Kita ve Hugo-Paper'ı temel alır ve çok dilli ve SEO uyumludur."
+avatar_alt = "Demo profil avatarı."
+[extra.profiles.sample_username.languages.zh]
+name = "林基塔 - 左拉的主题"
+bio = "林基塔 是一款适用于 左拉 的多语言、搜索引擎优化、简洁优雅的博客主题。"
+avatar_alt = "演示个人资料头像。"
+
+[extra.profiles.sample_username.open_graph]
+image = "images/screenshot.png"
+image_alt = "A screenshot of this website."
+# fb_app_id = ""
+# fb_admins = ["USER_ID"]
+[extra.profiles.sample_username.open_graph.languages]
+bg = { image_alt = "Екранна снимка на този сайт." }
+ar = { image_alt = "لقطة شاشة لهذا الموقع." }
+eo = { image_alt = "Ekrankopio de ĉi tiu retejo." }
+tr = { image_alt = "Bu web sitesinin ekran görüntüsü." }
+zh = { image_alt = "该网站的截图。" }
+
+# Salif's profile
+[extra.profiles.salif]
+name = "Salif"
+bio = "Hi! I'm the author."
+url = "https://salif.eu"
+social = [
+  { name = "codeberg", url = "https://codeberg.org/salif" },
+  { name = "github", url = "https://github.com/salif" },
+  { name = "bluesky", url = "https://bsky.app/profile/bg.salif.eu" },
+  { name = "rss", url = "$BASE_URL/authors/salif/atom.xml" },
+]
+
+[extra.profiles.salif.languages]
+[extra.profiles.salif.languages.bg]
+name = "Салиф"
+bio = "Здравейте! Аз съм авторът тук."
+url = "https://salif.eu/bg/"
+[extra.profiles.salif.languages.ar]
+name = "ساليف"
+bio = "مرحبًا! انا المؤلف."
+[extra.profiles.salif.languages.eo]
+name = "Salif"
+bio = "Saluton! Mi estas la aŭtoro."
+url = "https://salif.eu/eo/"
+[extra.profiles.salif.languages.gb]
+name = "Salif"
+bio = "Salom! Mi sen eskriyen."
+[extra.profiles.salif.languages.tr]
+name = "Salif"
+bio = "Merhaba! Ben yazarım."
+url = "https://salif.eu/tr/"
+[extra.profiles.salif.languages.zh]
+name = "萨利夫"
+bio = "您好！我是作者。"
+
+[extra.profiles.salif.open_graph]
+first_name = "Salif"
+last_name = "Mehmed"
+username = "salif"
+gender = "male"
+[extra.profiles.salif.open_graph.fediverse_creator]
+handle = "bg.salif.eu"
+domain = "bsky.brid.gy"
+url = "https://bsky.brid.gy/ap/did:plc:3ebgy675tgwzqudufqvifpxv"
+
+# Kita's profile
+[extra.profiles.kita]
+name = "Kita"
+bio = "Kita is the theme on which Linkita is based."
+url = "https://st1020.github.io/kita/"
+social = [
+  { name = "github", url = "https://github.com/st1020/kita" }
+]
+
+[extra.footer]
+since = 2020
+license_url = "https://creativecommons.org/licenses/by-sa/4.0/"
+copyright = "&copy; $YEAR Linkita &vert; [CC BY-SA 4.0]($LICENSE_URL)"
+
+[extra.languages]
+
+[extra.languages.en]
+locale = "en_US"
+date_format = "%F"
+date_format_archive = "%m-%d"
+taxonomy_list_description = "A map of all $NAME on this site. Start exploring!"
+taxonomy_single_description = "Browse articles related to $NAME. Start exploring!"
+
+[extra.languages.bg]
+locale = "bg_BG"
+date_format = "%d %b %Y"
+date_format_archive = "%d %b"
+
+[extra.languages.ar]
+locale = "ar_EG"
+date_format = "%x"
+date_format_archive = "%m-%d"
+
+[extra.languages.eo]
+locale = "eo"
+date_format = "%d %b %Y"
+date_format_archive = "%d %b"
+
+[extra.languages.gb]
+language_code = "art-x-globasa"
+
+[extra.languages.tr]
+locale = "tr_TR"
+date_format = "%d %b %Y"
+date_format_archive = "%d %b"
+
+[extra.languages.zh]
+locale = "zh_CN"
+date_format = "%x"
+date_format_archive = "%m-%d"
+
+[extra.goatcounter]
+endpoint = "https://sgi.goatcounter.com/count"
+noscript_prefix = "/linkita"
+
+[extra.giscus]
+repo = ""
+repo_id = ""
+category = ""
+category_id = ""
+mapping = "pathname"
+strict = 1
+reactions_enabled = 0
+emit_metadata = 0
+input_position = "top"
+theme = "light"
+lang = "en"
+loading = "lazy"
