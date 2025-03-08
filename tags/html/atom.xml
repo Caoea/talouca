@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>Talouca! - html</title>
+    <subtitle>Un collectif d&#x27;auteurs de jeux de société</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://caoea.github.io/talouca/tags/html/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://caoea.github.io/talouca"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2040-10-20T00:00:00+00:00</updated>
+    <id>https://caoea.github.io/talouca/tags/html/atom.xml</id>
+    <entry xml:lang="fr">
+        <title>Sortie de la Traque le 21 mars !</title>
+        <published>2040-10-20T00:00:00+00:00</published>
+        <updated>2040-10-20T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Talouca
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://caoea.github.io/talouca/la-traque-prez/"/>
+        <id>https://caoea.github.io/talouca/la-traque-prez/</id>
+        
+        <summary type="html">&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows whether basic HTML elements are decorated with CSS in a Linkita theme.&lt;&#x2F;p&gt;</summary>
+        
+    </entry>
+</feed>
