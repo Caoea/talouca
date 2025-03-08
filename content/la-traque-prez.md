@@ -1,5 +1,5 @@
 +++
-title = "Sortie de la Traque le 212 mars !"
+title = "Sortie de la Traque le 21 mars !"
 description = "Le premier jeu de Talouca bientôt chez votre vendeur préféré"
 date = 2040-10-20
 #updated =
