@@ -52,7 +52,7 @@ sample_header_menu_name = [
 
 [extra.profiles]
 
-# Linkita's profile
+# Talouca's profile
 [extra.profiles.sample_username]
 avatar_url = "icons/github.svg"
 avatar_invert = true
@@ -63,8 +63,10 @@ social = [
   # { name = "codeberg", url = "https://codeberg.org/salif/linkita" },
   # { name = "github", url = "https://github.com/salif/linkita" },
   # { name = "rss", url = "$BASE_URL/atom.xml" },
-  { name = "facebook", url = "example.com"},
-  { name = "linktree", url = "example.com"},
+  { name = "facebook", url = "https://www.facebook.com/people/Talouca/61574046025724/"},
+  { name = "instagram", url = "https://www.instagram.com/talouca_games/"},
+  { name = "youtube", url = "https://www.youtube.com/@talouca_games"},
+  { name = "linkedin", url = "https://www.linkedin.com/company/talouca/"},
   { name = "email", url = "mailto:talouca.games@gmail.com"}
 ]
 
