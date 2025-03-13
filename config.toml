@@ -54,7 +54,7 @@ sample_header_menu_name = [
 
 # Talouca's profile
 [extra.profiles.sample_username]
-avatar_url = "icons/github.svg"
+avatar_url = "images/logo.png"
 avatar_invert = true
 # avatar_alt = "Default alt text"
 # name = "Default name"

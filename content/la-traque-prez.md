@@ -4,20 +4,20 @@ description = "Le premier jeu de Talouca bientôt chez votre vendeur préféré"
 date = 2040-10-20
 #updated =
 [taxonomies]
-tags = ["markdown", "css", "html"]
+tags = ["La Traque", "sortie"]
 authors = ["Talouca"]
 [extra]
 [extra.cover]
 image = "images/latraqueboite.jpg"
-alt = "A Markdown logo"
+alt = "La Traque"
 width = 1600
 height = 1600
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Zola content files, also it shows whether basic HTML elements are decorated with CSS in a Linkita theme.
+Notre premier jeu, La Traque, sort le 21 mars. Edité par Don't Panic Games et disponible en ligne et dans votre boutique habituelle.
 
 <!--more-->
-
+<!-- 
 ## Headings
 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
@@ -150,3 +150,4 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
 
 Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+ -->
