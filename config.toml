@@ -44,7 +44,8 @@ disable_javascript = false
 
 [extra.menus]
 sample_header_menu_name = [
-  { url = "$BASE_URL/projects/", name = "Projects", names_i18n = "common_projects" },
+  { url = "$BASE_URL/jeux/", name = "Jeux", names_i18n = "common_games" },
+  { url = "$BASE_URL/prototypes/", name = "Prototypes", names_i18n = "common_projects" },
   { url = "$BASE_URL/archive/", name = "Archive", names_i18n = "common_archive" },
   { url = "$BASE_URL/tags/", name = "Tags", names_i18n = "common_tags" },
   { url = "$BASE_URL/about/", name = "About", names_i18n = "common_about" },

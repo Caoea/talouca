@@ -1,54 +1,39 @@
 [[project]]
-name = "La Traque"
-desc = "Notre premier jeu. Edité chez Don't Panic Games en mars 2025"
-tags = ["La Traque", "Don't Panic Games"]
+name = "Roigogo"
+desc = "Un jeu de pli festif aux multiples retournements. Illustré par l'auteur de BD Jean-Paul Krassinsky."
+image = "/images/Roigogo_cut.jpg"  # Add image URL here
+tags = ["Roigogo", "Prototypes"]
 links = [
-    { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
+    # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
     # { name = "docs", url = "https://example.com" },
 ]
 
 [[project]]
-name = "ipsum"
-desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
-tags = ["lorem", "ipsum"]
+name = "Coeur de flibustiers"
+desc = "Un jeu de cartes d'alliance/trahison de haute piraterie."
+# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+tags = ["C2F", "Prototypes"]
 links = [
-    { name = "homepage", url = "https://example.com" },
-    { name = "source", url = "https://example.com" },
-    { name = "docs", url = "https://example.com" },
+    # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
+    # { name = "docs", url = "https://example.com" },
 ]
 
 [[project]]
-name = "dolor sit"
-desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
-tags = ["amet", "ipsum", "vero", "optio"]
-links = [{ name = "github", url = "https://example.com" }]
-
-[[project]]
-name = "amet"
-desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
-tags = ["lorem", "ipsum"]
+name = "Ant Wars"
+desc = "Un jeu de combat asymétrique entre des fourmis religieuses et des Grands Dieux (scolopendre, araignée, ...)"
+# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+tags = ["Ant Wars", "Prototypes"]
 links = [
-    { name = "website", url = "https://example.com" },
-    { name = "github", url = "https://example.com" },
-    { name = "docs", url = "https://example.com" },
-    { name = "wiki", url = "https://example.com" },
+    # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
+    # { name = "docs", url = "https://example.com" },
 ]
 
 [[project]]
-name = "lorem-ipsum"
-desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
-tags = ["dolor", "lorem", "ipsum", "amet"]
+name = "Babel"
+desc = "Vivez l'expérience d'inventer l'écriture"
+# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+tags = ["Babel", "Prototypes"]
 links = [
-    { name = "github", url = "https://example.com" },
-    { name = "docs", url = "https://example.com" },
-]
-
-[[project]]
-name = "praesentium"
-desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
-tags = ["lorem", "ipsum"]
-links = [
-    { name = "homepage", url = "https://example.com" },
-    { name = "github", url = "https://example.com" },
-    { name = "docs", url = "https://example.com" },
+    # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
+    # { name = "docs", url = "https://example.com" },
 ]

@@ -4,7 +4,7 @@ description = "Le premier jeu de Talouca bientôt chez votre vendeur préféré"
 date = 2040-10-20
 #updated =
 [taxonomies]
-tags = ["La Traque", "sortie"]
+tags = ["La Traque", "Sortie"]
 authors = ["Talouca"]
 [extra]
 [extra.cover]
