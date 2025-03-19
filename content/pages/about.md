@@ -8,7 +8,7 @@ path = "about"
 
 ## Talouquoi ?
 
-Talouca, c'est un collectif d'auteurs, d'amis passionés de jeux de société qui se retrouvent pour créer des jeux auxquels ils aimeraient jouer.
+Talouca, c'est un collectif d'auteurs, d'amis passionnés de jeux de société qui se retrouvent pour créer des jeux auxquels ils aimeraient jouer.
 
 ## Talouqui ?
 
