@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>Talouca! - La Traque</title>
+    <subtitle>Un collectif d&#x27;auteurs de jeux de société</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://talouca.fr/tags/la-traque/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://talouca.fr"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-05-02T00:00:00+00:00</updated>
+    <id>https://talouca.fr/tags/la-traque/atom.xml</id>
+    <entry xml:lang="fr">
+        <title>La Traque : les règles en vidéo</title>
+        <published>2025-05-02T00:00:00+00:00</published>
+        <updated>2025-05-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Talouca
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://talouca.fr/la-traque-video-regles/"/>
+        <id>https://talouca.fr/la-traque-video-regles/</id>
+        
+        <content type="html" xml:base="https://talouca.fr/la-traque-video-regles/">&lt;p&gt;Pour vous aider dans votre première partie, nous avons réalisé une vidéo de présentation des règles.
+Celle-ci n&#x27;empêche pas de lire le livret de règles, mais présente néanmoins l&#x27;entiereté des concepts du jeu, dans un format concentré (11min)
+Disponible ici : &lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=yPGqjJZyo7o&quot;&gt;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=yPGqjJZyo7o&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Le livret de règles est également disponible ici : &lt;a href=&quot;https:&#x2F;&#x2F;talouca.fr&#x2F;documents&#x2F;LaTraque_Rules.pdf&quot;&gt;https:&#x2F;&#x2F;talouca.fr&#x2F;documents&#x2F;LaTraque_Rules.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fr">
+        <title>La Traque : le dossier historique</title>
+        <published>2025-05-01T00:00:00+00:00</published>
+        <updated>2025-05-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Talouca
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://talouca.fr/la-traque-dossier-historique/"/>
+        <id>https://talouca.fr/la-traque-dossier-historique/</id>
+        
+        <content type="html" xml:base="https://talouca.fr/la-traque-dossier-historique/">&lt;p&gt;Si après votre partie vous êtes curieux de l&#x27;histoire derrière chacun des fugitifs et chasseurs présents dans le jeu, nous avons réalisé un dossier historique comprenant de courtes biographiques pour chacun, celui-ci est disponible ici : &lt;a href=&quot;https:&#x2F;&#x2F;talouca.fr&#x2F;documents&#x2F;LaTraque_les_fugitifs.pdf&quot;&gt;https:&#x2F;&#x2F;talouca.fr&#x2F;documents&#x2F;LaTraque_les_fugitifs.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;La Traque est un jeu historique, basé sur des évènements réels et souvent méconnus, que nous avons souhaité mettre en avant auprès du public.
+Tous les fugitifs n’étaient pas d’idéologie nazie, mais tous ont profité du système, par la collaboration, par des financements ou encore par la liberté d’action qui leur a été confiée. Malheureusement, beaucoup se sont enfuits, généralement aidés, et pour une grande partie ont vécu une vie normale ou presque. Et c’est bien ici le coeur du jeu.
+Vous trouverez un rapide résumé des actes de chacun. La plupart des fugitifs ont une vie bien documentée, une page Wikipédia... Lire leurs histoires laisse souvent un goût amer et un sentiment d’injustice.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="fr">
+        <title>Sortie de la Traque le 28 mars !</title>
+        <published>2025-03-21T00:00:00+00:00</published>
+        <updated>2025-03-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Talouca
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://talouca.fr/la-traque-sortie/"/>
+        <id>https://talouca.fr/la-traque-sortie/</id>
+        
+        <content type="html" xml:base="https://talouca.fr/la-traque-sortie/">&lt;p&gt;Notre premier jeu, La Traque, sort le 21 mars. Edité par Don&#x27;t Panic Games et disponible en ligne et dans votre boutique habituelle.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

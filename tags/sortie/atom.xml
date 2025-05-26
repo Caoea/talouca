@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr">
+    <title>Talouca! - Sortie</title>
+    <subtitle>Un collectif d&#x27;auteurs de jeux de société</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://talouca.fr/tags/sortie/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://talouca.fr"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-03-21T00:00:00+00:00</updated>
+    <id>https://talouca.fr/tags/sortie/atom.xml</id>
+    <entry xml:lang="fr">
+        <title>Sortie de la Traque le 28 mars !</title>
+        <published>2025-03-21T00:00:00+00:00</published>
+        <updated>2025-03-21T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Talouca
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://talouca.fr/la-traque-sortie/"/>
+        <id>https://talouca.fr/la-traque-sortie/</id>
+        
+        <content type="html" xml:base="https://talouca.fr/la-traque-sortie/">&lt;p&gt;Notre premier jeu, La Traque, sort le 21 mars. Edité par Don&#x27;t Panic Games et disponible en ligne et dans votre boutique habituelle.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
