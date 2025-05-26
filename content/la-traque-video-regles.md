@@ -8,7 +8,7 @@ tags = ["La Traque", "Règles"]
 authors = ["Talouca"]
 [extra]
 [extra.cover]
-image = "images/traque_règles"
+image = "images/traque_regles.png"
 alt = "La Traque - Règles"
 width = 1600
 height = 1600
