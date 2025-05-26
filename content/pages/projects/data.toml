@@ -11,7 +11,7 @@ links = [
 [[project]]
 name = "Coeur de flibustiers"
 desc = "Un jeu de cartes d'alliance/trahison de haute piraterie."
-# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+image = "/images/c2f_logo.png"  # Add image URL here
 tags = ["C2F", "Prototypes"]
 links = [
     # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
@@ -21,7 +21,7 @@ links = [
 [[project]]
 name = "Ant Wars"
 desc = "Un jeu de combat asymétrique entre des fourmis religieuses et des Grands Dieux (scolopendre, araignée, ...)"
-# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+image = "/images/aw_logo.png"  # Add image URL here
 tags = ["Ant Wars", "Prototypes"]
 links = [
     # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },
@@ -31,7 +31,7 @@ links = [
 [[project]]
 name = "Babel"
 desc = "Vivez l'expérience d'inventer l'écriture"
-# image = "/images/Roigogo_cut.jpg"  # Add image URL here
+image = "/images/babel_logo.png"  # Add image URL here
 tags = ["Babel", "Prototypes"]
 links = [
     # { name = "Voir sur le site web de l'éditeur", url = "https://www.dontpanicgames.com/fr/shop/jeux/la-traque/" },

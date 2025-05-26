@@ -8,8 +8,8 @@ tags = ["La Traque", "Histoire"]
 authors = ["Talouca"]
 [extra]
 [extra.cover]
-image = "images/fugitifs_et_crimes.png"
-alt = "La Traque - Règles"
+image = "images/traque_fugitifs_et_crimes.png"
+alt = "La Traque - Fugitifs"
 width = 1600
 height = 1600
 +++
