@@ -388,7 +388,7 @@ title_separator = " | "
 header_menu_name = "menu_name"
 
 # (type: boolean; default value: false;)
-disable_default_favicon = false
+disable_default_favicon = true
 
 # (type: boolean; default value: false;)
 disable_javascript = false
